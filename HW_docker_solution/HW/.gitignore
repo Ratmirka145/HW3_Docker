@@ -1,0 +1,5 @@
+data/*.csv
+data/*.html
+local_data/*.csv
+node_modules/
+.DS_Store

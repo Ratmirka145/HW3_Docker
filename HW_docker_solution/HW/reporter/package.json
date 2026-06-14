@@ -1,0 +1,9 @@
+{
+  "name": "reporter",
+  "version": "1.0.0",
+  "description": "CSV data reporter for Docker homework",
+  "main": "report.js",
+  "dependencies": {
+    "csv-parse": "^5.5.0"
+  }
+}
